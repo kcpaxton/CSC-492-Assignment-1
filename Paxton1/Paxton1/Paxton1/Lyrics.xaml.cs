@@ -1,4 +1,17 @@
-﻿using System;
+﻿/*****************************************************
+***** Student: Kyle Paxton                       *****
+***** Class: Csc 492 Mobile Apps                 *****
+***** Instructor: Gamradt                        *****
+***** Assignment: 1                              *****
+***** Due Date:02-28-18                          *****
+******************************************************
+*****  Description: Lyrics.xaml.cs Creates a     *****
+*****  section that displays the lyrics of the   *****
+*****  song "Turn on me" by The Shins. The title *****
+*****  will not be scrollable but the lyrics of  *****
+*****  the song will be.                         *****
+******************************************************/
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;

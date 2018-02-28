@@ -1,4 +1,17 @@
-﻿using System;
+﻿/*****************************************************
+***** Student: Kyle Paxton                       *****
+***** Class: Csc 492 Mobile Apps                 *****
+***** Instructor: Gamradt                        *****
+***** Assignment: 1                              *****
+***** Due Date:02-28-18                          *****
+******************************************************
+*****  Description: Colors.xaml.cs creates a color*****
+*****  wheel that is made up of frames, a boxview*****
+*****  to display the color and labels to display*****
+*****  the colors information                    *****
+******************************************************/
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
